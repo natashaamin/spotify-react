@@ -1,6 +1,15 @@
 {
   "projects": {
     "default": "spotify-reactjs-dfe19"
-  }
+  },
+  "targets": {
+    "spotify-reactjs-dfe19": {
+      "hosting": {
+        "main": [
+          "spotify-reactjs-dfe19"
+        ]
+      }
+    }
+  },
+  "etags": {}
 }
-ç
